@@ -304,6 +304,12 @@
       "git_ref": "main"
     }
   ],
+  "CorridorRoad": {
+      "repository": "https://github.com/ganadara135/CorridorRoad",
+      "git_ref": "main",
+      "branch_display_name": "main",
+      "zip_url": "https://github.com/ganadara135/CorridorRoad/archive/refs/heads/main.zip"
+  },
   "CubeMenu": [
     {
       "repository": "https://github.com/triplus/CubeMenu",
