@@ -131,6 +131,10 @@
     branch = main
 [submodule "Color-Palette-Theme"]
 	path = Color-Palette-Theme
+	url = https://github.com/ganadara135/CorridorRoad
+    branch = main
+[submodule "CorridorRoad"]
+	path = CorridorRoad
 	url = https://github.com/altangarts/FreeCAD-Themes-ColorPalette
     branch = main
 [submodule "CubeMenu"]
